@@ -13,7 +13,7 @@ Lets start with useful sources of RIFT information over the internet.
 * [Magelo - RIFT](http://rift.magelo.com/en/) &ndash; Rift Database, Profile, Soul Builder, Signature and more
 * [Curse - Rift Addons](https://mods.curse.com/addons/rift) &ndash; Rift Addons
 * [RiftScene - Best in Slot](http://db.riftscene.com/)
-* [Riftraidguides.com](http://riftraidguides.com/)
+* [Rift Raid Guides](http://www.riftraids.com/)
 * [Rift Wardrobe](http://rift-wardrobe.com/) &ndash; Wardrobe Wednesday show
 
 ## Dimensions
