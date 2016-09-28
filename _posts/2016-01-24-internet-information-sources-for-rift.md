@@ -11,8 +11,8 @@ Lets start with useful sources of RIFT information over the internet.
 * [RIFT Forums](http://forums.riftgame.com/) &ndash; official forums
 * [RiftGrate](https://riftgrate.com/) &ndash; Rift News, Guides and Walkthroughs
 * [Magelo - RIFT](http://rift.magelo.com/en/) &ndash; Rift Database, Profile, Soul Builder, Signature and more
-* [Curse - Rift Addons](http://www.curse.com/addons/rift) &ndash; Rift Addons
-* [RiftScene - Best in Slot](http://www.riftscene.com/best-in-slot/)
+* [Curse - Rift Addons](https://mods.curse.com/addons/rift) &ndash; Rift Addons
+* [RiftScene - Best in Slot](http://db.riftscene.com/)
 * [Riftraidguides.com](http://riftraidguides.com/)
 * [Rift Wardrobe](http://rift-wardrobe.com/) &ndash; Wardrobe Wednesday show
 
@@ -26,4 +26,4 @@ Lets start with useful sources of RIFT information over the internet.
 ## For players on European (EU) shards
 
 * [Eternal Dawn](https://eternal-dawn.net/) &ndash; international multi-game community and RIFT guild &lt;Dawn Eternal&gt; on Gelidra (EU)
-* [RIFT1337](http://rift1337.com/) &ndash; RIFT guild &lt;Skins on Farm&gt; on Gelidra (EU) running huge wardrobe project
+* [RIFT1337](https://rift1337.com/) &ndash; RIFT guild &lt;Skins on Farm&gt; on Gelidra (EU) running huge wardrobe project
