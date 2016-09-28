@@ -15,6 +15,7 @@ Lets start with useful sources of RIFT information over the internet.
 * [RiftScene - Best in Slot](http://db.riftscene.com/)
 * [Rift Raid Guides](http://www.riftraids.com/)
 * [Rift Wardrobe](http://rift-wardrobe.com/) &ndash; Wardrobe Wednesday show
+* [Rift 360](http://www.rift360.net/) &ndash; panoramic views of various places and instances
 
 ## Dimensions
 
