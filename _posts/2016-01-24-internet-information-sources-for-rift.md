@@ -9,7 +9,7 @@ Lets start with useful sources of RIFT information over the internet.
 
 * [RIFT](http://www.riftgame.com/) &ndash; official website
 * [RIFT Forums](http://forums.riftgame.com/) &ndash; official forums
-* [RiftGrate](http://www.riftgame.com/) &ndash; Rift News, Guides and Walkthroughs
+* [RiftGrate](https://riftgrate.com/) &ndash; Rift News, Guides and Walkthroughs
 * [Magelo - RIFT](http://rift.magelo.com/en/) &ndash; Rift Database, Profile, Soul Builder, Signature and more
 * [Curse - Rift Addons](http://www.curse.com/addons/rift) &ndash; Rift Addons
 * [RiftScene - Best in Slot](http://www.riftscene.com/best-in-slot/)
