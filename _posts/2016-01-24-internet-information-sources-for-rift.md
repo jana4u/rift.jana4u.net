@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Internet information sources for RIFT"
 date:   2016-01-24 19:02:53 +0100
 ---
